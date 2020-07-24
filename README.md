@@ -1,10 +1,8 @@
-### Hi there 👋
+#Tiago Silva
 
-<!--
-**tiagosn01/tiagosn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there!! 👋
 
-Here are some ideas to get you started:
-
+My name is Tiago and: 
 
 - 🌱 I’m currently learning ReactJS, React Native, Node.js
 - 🤔 I’m looking for work.
@@ -13,3 +11,7 @@ Here are some ideas to get you started:
  
 
 -->
+
+<!--
+**tiagosn01/tiagosn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
