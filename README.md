@@ -8,7 +8,6 @@ My name is Tiago and:
 - 🤔 I’m looking for work.
 
  Linkedin: https://www.linkedin.com/in/tiago-silva-8885811a0/
- Email: tiagosilva0922@gmail.com
  
 
 
