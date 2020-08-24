@@ -4,8 +4,8 @@
 
 My name is Tiago and: 
 
-- 🌱 I’m currently learning ReactJS, React Native, Node.js
-- 🤔 I’m looking for work.
+- I’m currently learning ReactJS, React Native, Node.js
+- I’m looking for work.
 
  Linkedin: https://www.linkedin.com/in/tiago-silva-8885811a0/
  
