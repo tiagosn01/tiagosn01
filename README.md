@@ -4,8 +4,11 @@
 
 My name is Tiago and: 
 
-- I’m currently learning ReactJS, React Native, Node.js
-- I’m looking for work.
+- Deeping my knowledge in ReactJS, React Native, Node.js
+- I’m working as an Frontend Developer.
+- FullStack Developer Loading...
+
+- Interested in learning as soon as possible, DDD, TDD SOLID.
 
  Linkedin: https://www.linkedin.com/in/tiago-silva-8885811a0/
  
