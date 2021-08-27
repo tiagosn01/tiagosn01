@@ -9,7 +9,7 @@
 ## 🌀 A little more about me:
 
 ```typescript
-class Arthur extends Human {
+class Tiago extends Human {
   name: string;
   nationality: string;
   
