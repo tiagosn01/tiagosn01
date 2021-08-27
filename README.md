@@ -30,7 +30,7 @@ class Tiago extends Human {
     Design:         ["Chakra UI", "Bootstrap", "Reactstrap"];
   };
   
-  Studing: {
+  studing: {
    CSharp:          ["DotNetCore"]
 }
 ```
