@@ -32,7 +32,7 @@ class Tiago extends Human {
   
   studing: {
    CSharp:          ["DotNetCore"]
-   Blockchain:      ["Web3", "Token", "Wallet", "Blocks", "Rust", "Smart Contracts"]
+   Blockchain:      ["Web3"]
   }
 
 }
