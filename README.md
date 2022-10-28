@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)](https://www.linkedin.com/in/tiago-silva-8885811a0/)
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.diegoo@hotmail.com)](mailto:tiagosilva0922@gmail.com)
 
-### Software Developer @ Lemon Solutions
+### Software Developer @ Neogrid
 
 ## 🌀 A little more about me:
 
