@@ -25,15 +25,10 @@ class Tiago extends Human {
   ];
   
   technologies: {
-    JavaScript/Typescript:     ["React.js", "Node", "React Native",];   
+    Typescript:     ["React.js", "Node", "React Native",];   
     APIs:                      ["REST"]
     Design:                    ["Chakra UI", "Bootstrap", "Reactstrap, CSS, SCSS, SASS"];
   };
-  
-  studing: {
-   CSharp:          ["DotNetCore"]
-   Blockchain:      ["Web3"]
-  }
 
 }
 ```
