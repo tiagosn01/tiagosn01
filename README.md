@@ -25,9 +25,9 @@ class Tiago extends Human {
   ];
   
   technologies: {
-    Typescript:     ["React.js", "Node", "React Native",];   
-    APIs:                      ["REST"]
-    Design:                    ["Chakra UI", "Bootstrap", "Reactstrap, CSS, SCSS, SASS"];
+    Typescript: ["React.js", "Node", "React Native"],
+    APIs: ["REST"],
+    Design: ["Chakra UI", "Bootstrap", "Reactstrap, CSS, SCSS, SASS"]
   };
 
 }
