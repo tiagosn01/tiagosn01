@@ -1,6 +1,6 @@
 ## Tiago Nascimento
 
-### Software Developer @Neogrid
+### Software Developer @Cantu Inc
 
 Enthusiast of web and mobile technologies.
 
